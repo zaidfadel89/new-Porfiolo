@@ -1,0 +1,60 @@
+* {
+  width: 90%;
+
+  margin-left: 5%;
+  background-color: rgb(56, 56, 56);
+}
+code {
+  background: #8f8f8b;
+  border-radius: 6px;
+  color: #fff;
+  display: block;
+  font: 14px/24px 'Source Code Pro', Inconsolata, 'Lucida Console', Terminal,
+    'Courier New', Courier;
+  padding: 24px 15px;
+  text-align: center;
+}
+header,
+section,
+aside,
+footer {
+  margin: 0 1.5% 24px 1.5%;
+}
+section {
+  float: left;
+  width: 42%;
+  margin-left: 3%;
+  position: absolute;
+}
+.as {
+  color: rgb(240, 237, 233);
+  text-align: center;
+  border-style: ;
+  width: 45%;
+  margin-top: 90px;
+  height: 50px;
+  position: relative;
+  left: 33px;
+}
+.as2 {
+  color: rgb(240, 237, 233);
+  text-align: center;
+  border-style: ;
+  width: 45%;
+  margin-right: 80px;
+  margin-top: 5px;
+  height: 50px;
+  position: relative;
+  left: 33px;
+}
+aside {
+  height: 40%;
+  margin-bottom: px;
+  float: right;
+  width: 30%;
+  margin-right: 11.5%;
+}
+footer {
+  clear: both;
+  margin-bottom: 0;
+}
