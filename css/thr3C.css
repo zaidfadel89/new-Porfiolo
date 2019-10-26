@@ -2,6 +2,9 @@
     margin-right: 10%
 
   }
+  #headers {
+     color: yellow;
+  text-shadow: -1px 0 rgb(6, 223, 6), 0 1px rgb(247, 6, 6), 1px 0 rgb(243, 248, 245), 0 -1px rgb(391, 5, 5);}
   
     .u3{background-color: rgb(114, 108, 114);
       color: #090e0a;

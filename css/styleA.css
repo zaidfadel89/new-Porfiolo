@@ -9,8 +9,14 @@
 .body {
   background: rgb(218, 217, 216);
 }
+#headers {
+  text-shadow: 2px 2px red;
+}
 
 .p1 {
+  box-shadow: 15px 15px 15px rgba(14, 27, 212, 0.342);
+  color: white;
+  text-shadow: 1px 1px 2px #000000;
   float: left;
   border: 1px black;
   margin-top: 30px;
